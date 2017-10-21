@@ -1,0 +1,154 @@
+/*Yanira Arenazas Bueno*/
+.conteiner {
+  height: 290px;
+  width: 220px;
+  border: 2px solid #E5E7E9;
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+}
+
+.heart {
+  background-image: url(../assets/icons/heart.png);
+  background-size: cover;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  position: relative;
+  top: 25px;
+  left: 65px;
+}
+
+p {
+  text-align: center;
+  position: relative;
+  top:28px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.text-1 {
+  font-family: 'Boogaloo', cursive;
+  font-size: 22px;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.text-2 {
+  font-family: 'Handlee', cursive;
+  font-size: 13px;
+  margin-bottom: -5px;
+}
+
+.text-3 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 15px;
+  padding: 10px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+.food {
+  background-image: url(../assets/icons/food.png);
+  background-size: cover;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  position: relative;
+  top: 25px;
+  left: 65px;
+}
+
+/*Jessi Hernandez*/
+
+.cuadro{
+  height: 290px;
+  width: 220px;
+  position: relative;
+  background-color: #E8E9E9;
+  display: inline-block;
+}
+.imagen{
+height: 100px;
+width: 100px;
+background-image: url("../assets/icons/ruby.png");
+position: relative;
+left: 35px;
+top: -35px;
+}
+.pregunta{
+  position: relative;
+  height: 300px;
+  width: 200px;
+  top: 120px;
+}
+.a{
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  position: relative;
+  right: 35px;
+  top: -17px;
+}
+.b{
+  position: relative;
+  font-family: 'Nunito', sans-serif;
+  top:-27px;
+  right: 35px;
+  font-size: 13px;
+}
+.c{
+  position: relative;
+  width: 180px;
+  font-size: 15px;
+  right: 40px;
+  font-family: 'News Cycle', sans-serif;
+  top: -35px;
+}
+/*Nelida*/
+.conteiner-2 {
+  height: 290px;
+  width: 220px;
+  border: 2px solid ##E5E7E9;
+  display: inline-block;
+  background-color: #E8E9E9;
+  vertical-align: top;
+}
+.airplane {
+  background-image: url(../assets/icons/avion.png);
+  background-size: cover;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  position: relative;
+  top: 20px;
+  left: 65px;
+}
+.text-4 {
+  font-family: 'Boogaloo', cursive;
+  font-size: 22px;
+  margin-bottom: 20px;
+  margin-top: -18px;
+}
+.text-5 {
+  font-family: 'Handlee', cursive;
+  font-size: 13px;
+  margin-bottom: -5px;
+}
+.text-air {
+  font-family:'Inconsolata', monospace;;
+  font-size: 15px;
+  padding: 10px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+/*Nata*/
+.coffee {
+  background-image: url(../assets/icons/coffee.png);
+  background-size: cover;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  position: relative;
+  top: 20px;
+  left: 65px;
+}
